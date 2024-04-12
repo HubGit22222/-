@@ -8,6 +8,7 @@
             Console.WriteLine("Привет, мир");
             Console.WriteLine("Пока, мир");
             Console.WriteLine("нужно было добавить изменение, вот оно)))");
+            Console.WriteLine("да сколько можно изменять этот код...ЪУЪ");
         }
     }
 }
